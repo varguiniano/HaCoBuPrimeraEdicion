@@ -2,6 +2,8 @@
 
 El archivo DesafioHaCoBu2024.pdf incluye una descripción detallada de ambos retos. 
 
+Las soluciones han de entregarse a través del [formulario](https://docs.google.com/forms/d/e/1FAIpQLSc1Y1L7yFB2u8aqo-XwEfoKGaXZS-YYUz5ce0ZlPGB6KjA2vQ/viewform).
+
 A continuación se muestran las intrucciones para cada plantilla.
 
 ## Reto IA
