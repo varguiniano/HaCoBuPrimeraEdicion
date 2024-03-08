@@ -1,5 +1,9 @@
 # HaCoBuPrimeraEdicion
 
+El archivo DesafioHaCoBu2024.pdf incluye una descripción detallada de ambos retos. 
+
+A continuación se muestran las intrucciones para cada plantilla.
+
 ## Reto IA
 
 - Requiere tener Python instalado.
